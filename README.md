@@ -36,7 +36,7 @@ sls deploy --stage dev
 
 ## Authors
 
-* **[Murilo Amêndola](https://www.linkedin.com/in/muriloamendola/)** - <muriloamendola@gmail.com>
+* **[Murilo Amêndola](https://www.linkedin.com/in/muriloamendola/)** - <murilo.oliveira@juntossomosmais.com.br>
 
 See also the list of [contributors](https://github.com/muriloamendola/graphql-serverless/contributors) who participated in this project.
 
