@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on aws clou
 First of all you need to clone this repository in your machine:
 
 ```bash
-git clone git@github.com:muriloamendola/graphql-serverless.git
+git clone git@github.com:juntossomosmais/graphql-serverless.git
 ```
 
 To install project dependencies just run:
